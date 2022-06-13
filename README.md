@@ -1,6 +1,7 @@
 # Animal-feeding-Phase-I
 
 ## Aim: 
+To develop a animal feeding game-Phase-1 using unity.
 
 ## Algorithm:
 
@@ -22,7 +23,7 @@
 
 ## Program:
 ### PLAYER CONTROLLER:
-```
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -62,7 +63,8 @@ public class PlayerController : MonoBehaviour
 }
 ```
 ### MOVE FORWARD:
-```using System.Collections;
+```c#
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
